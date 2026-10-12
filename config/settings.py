@@ -1,0 +1,1 @@
+PAGE_TITLE = "Project GREEN - DevOps Knowledge Assistant"
